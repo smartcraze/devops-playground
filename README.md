@@ -1,6 +1,6 @@
 # 🚀 DevOps Learning Repository
 
-> A hands-on, end-to-end DevOps learning repo — covering Shell Scripting, Docker, Kubernetes, CI/CD, ArgoCD, Terraform, Nginx, Linux, Git and real-world mega projects.
+> A hands-on, end-to-end DevOps learning repo — covering Shell Scripting, Docker, Kubernetes, CI/CD, ArgoCD, Terraform, Nginx, Linux, Git and real-world mega projects
 
 ![DevOps](https://img.shields.io/badge/DevOps-Learning-blue?style=for-the-badge&logo=devdotto)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-green?style=for-the-badge&logo=gnubash)
